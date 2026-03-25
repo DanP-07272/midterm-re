@@ -1,1 +1,1 @@
-# midterm-re
+# Creative-Coding-2026-midterm
